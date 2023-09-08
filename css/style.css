@@ -1,0 +1,11 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+  #contenedor{
+    text-align: justify;
+  }
+
+  /*#contenedor img{
+
+  }*/
